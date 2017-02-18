@@ -1,6 +1,6 @@
 ## Week 1, Thursday 2/23 Prep
 
-- Skim through the Introduction chapter
+- Skim through the Introduction chapter of CTC (Cracking the Coding Interview)
 - However, highly recommend to read through Introduction - Technical Questions (pgs 60-81)
 - DON'T READ LINKED LIST CHAPTER IN CRACKING THE CODE, at least, NOT YET.  It explains right away how to write a LinkedList, so instead I recommend you hop over to [Exercism.io](http://exercism.io/exercises/ruby/simple-linked-list/readme)instructions and a Ruby test suite provided OR [Tutorials Point](https://www.tutorialspoint.com/data_structures_algorithms/linked_lists_algorithm.htm), basic rundown of LinkedList provided (although only look at the pseudocode if you have to!!)
 - Note: there are a couple of different ways to solve a linked list
