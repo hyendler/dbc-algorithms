@@ -2,7 +2,7 @@
 
 - Skim through the Introduction chapter of CTC (Cracking the Coding Interview)
 - However, highly recommend to read through Introduction - Technical Questions (pgs 60-81)
-- DON'T READ LINKED LIST CHAPTER IN CRACKING THE CODE, at least, NOT YET.  It explains right away how to write a LinkedList, so instead I recommend you hop over to [Exercism.io](http://exercism.io/exercises/ruby/simple-linked-list/readme)instructions and a Ruby test suite provided OR [Tutorials Point](https://www.tutorialspoint.com/data_structures_algorithms/linked_lists_algorithm.htm), basic rundown of LinkedList provided (although only look at the pseudocode if you have to!!)
+- DON'T READ LINKED LIST CHAPTER IN CRACKING THE CODE, at least, NOT YET.  It explains right away how to write a LinkedList, so instead I recommend you hop over to [Exercism.io](http://exercism.io/exercises/ruby/simple-linked-list/readme) instructions and a Ruby test suite provided OR [Tutorials Point](https://www.tutorialspoint.com/data_structures_algorithms/linked_lists_algorithm.htm), basic rundown of LinkedList provided (although only look at the pseudocode if you have to!!)
 - Note: there are a couple of different ways to solve a linked list
 
 
@@ -11,7 +11,7 @@ Basic (Look at above links, or find some Youtube videos):
 - understand what LIFO means (last in first out) and be able to draw it
 - convert an array to a LinkedList
 
-Not as basic (some are from CTC):
+Not as basic:
 - insert specific node in the LinkedList
 - delete specifc node from the LinkedList (CTC, pg 93)
 - delete node with a specific value
