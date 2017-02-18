@@ -25,9 +25,9 @@ Really Not Basic (go back to Cracking the Code):
 
 
 Further reading:
-[good specs on what a LinkedList should do from Google Univeristy dude](https://github.com/jwasham/google-interview-university#linked-lists)
-[some ruby book chapter I found](http://www.brpreiss.com/books/opus8/html/page96.html)
-[some really indepth C Stanford stuff that goes into pointers and memory of linkedlists](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf)
+- [good specs on what a LinkedList should do from Google Univeristy dude](https://github.com/jwasham/google-interview-university#linked-lists)
+- [some ruby book chapter I found](http://www.brpreiss.com/books/opus8/html/page96.html)
+- [some really indepth C Stanford stuff that goes into pointers and memory of linkedlists](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf)
 
 
 
