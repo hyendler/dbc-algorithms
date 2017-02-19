@@ -20,10 +20,18 @@ Please only merge working solution code.  K thx bai.
 ### Directory organizational guidelines
 - let's use underscores instead of spaces
 - let's use lowercase instead of uppercase (good practice in general, as uppercase file/folder names can eff some file path shit up)
-- let's have every exercise have a solutions and test folder
+- let's have every exercise have a solutions folder with each solution in its own folder
+- let's have each soltuion folder should be named yourInitials_solution
 - let's have your solution file be yourInitials_solution.codeExtension
+- let's have the solution test file be in the same directory as the source, and be named yourInitials_solution.spec.codeExtension (see testing below)
 - write in whatever language you want (then maybe write a test in that language if it doesn't exist :P)
 
+### Testing
+- testing can (IMHO is - Adam) be fun, useful, and really help to grasp how your solution is working
+- each week someone will post example spec files in different languages for you to use and model in your own solutions
+- you can add more examples to help in the process, and you'll want to edit them to match your naming
+- solutions should be namespaced so as not to conflict with other solution
+- see the TESTING.md with any question about how to implent, or reach out to the facebook group
 
 ### Housekeeping
 I can't manage this by myself, so I need your help to make this repo AWESOME. Also, TDD!  Write tests for the exercises.
