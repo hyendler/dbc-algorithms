@@ -19,11 +19,15 @@ Please only merge working solution code.  K thx bai.
 
 ### Directory organizational guidelines
 - let's use underscores instead of spaces
-- let's use lowercase instead of uppercase (good practice in general, as uppercase file/folder names can eff some file path shit up)
-- let's have every exercise have a solutions folder with each solution in its own folder
-- let's have each soltuion folder should be named yourInitials_solution
-- let's have your solution file be yourInitials_solution.codeExtension
-- let's have the solution test file be in the same directory as the source, and be named yourInitials_solution.spec.codeExtension (see testing below)
+- let's use lowercase instead of uppercase (good practice in general, as uppercase file/folder names can eff file paths up)
+- let's have solutions be set up as:
+  - simple_linked_list_exercise
+    - hy_solution
+       - hy_solution.js
+       - hy_solution.spec.js
+    - amf_solution
+      - amf_solution.rb
+      - amf_solution_test.rb
 - write in whatever language you want (then maybe write a test in that language if it doesn't exist :P)
 
 ### Testing
