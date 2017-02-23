@@ -13,7 +13,7 @@ Basic (Look at above links, or find some Youtube videos):
 - convert an array to a LinkedList
 
 Not as basic:
-- insert specific node in the LinkedList
+- insert specific node somewhere in the middle of a LinkedList
 - delete specifc node from the LinkedList (CTC, pg 93)
 - delete node with a specific value
 - reverse the list
