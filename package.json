@@ -1,0 +1,28 @@
+{
+  "name": "dbc-algorithms",
+  "version": "1.0.0",
+  "description": "A repo for organizing study session of the dbc-algorithms group.",
+  "main": "index.js",
+  "dependencies": {
+    "karma": "^1.4.1"
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.4.1",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.1.0"
+  },
+  "scripts": {
+    "test": "./node_modules/karma/bin/karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyendler/dbc-algorithms.git"
+  },
+  "author": "Hanah Yendler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyendler/dbc-algorithms/issues"
+  },
+  "homepage": "https://github.com/hyendler/dbc-algorithms#readme"
+}
