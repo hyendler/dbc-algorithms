@@ -21,13 +21,13 @@ Please only merge working solution code.  K thx bai.
 - let's use underscores instead of spaces
 - let's use lowercase instead of uppercase (good practice in general, as uppercase file/folder names can eff file paths up)
 - let's have solutions be set up as:
-  - simple_linked_list_exercise
-    - hy_solution
-       - hy_solution.js
-       - hy_solution.spec.js
-    - amf_solution
-      - amf_solution.rb
-      - amf_solution_test.rb
+  - `simple_linked_list_exercise`
+    - `hy_solution`
+       - `hy_solution.js`
+       - `hy_solution.spec.js`
+    - `amf_solution`
+      - `amf_solution.rb`
+      - `amf_solution_test.rb`
 - write in whatever language you want (then maybe write a test in that language if it doesn't exist :P)
 
 ### Testing
