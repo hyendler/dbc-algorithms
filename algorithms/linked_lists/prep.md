@@ -8,21 +8,22 @@
 
 
 Basic (Look at above links, or find some Youtube videos):
-- write a basic linked list where you can push (insert value at back), pop (remove value at back), get the value from the front item, get value of the end item, shift (remove value at front), unshift (insert value at front)
+- write a basic linked list where you can push (insert link at back), pop (remove link at back), shift (remove link at front), unshift (insert link at front), and tell the size
 - understand what LIFO means (last in first out) and be able to draw it
 - convert an array to a LinkedList
 
 Not as basic:
 - insert specific node somewhere in the middle of a LinkedList
-- delete specifc node from the LinkedList (CTC, pg 93)
+- delete specifc node from the LinkedList (CTCI, pg 93)
 - delete node with a specific value
 - reverse the list
+- a few others from HackerRank: [Algo1](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists) [Algo2](https://www.hackerrank.com/challenges/compare-two-linked-lists)
 
 
 Really Not Basic (go back to Cracking the Code):
 - Return Kth from the Last (CTC Chapter 2, #2.2)
 - How do you tell if a LinkedList is circular or has an end?
-- Most of the problems in CTC
+- Most of the problems in CTCI
 
 
 Further reading:
