@@ -158,5 +158,50 @@ class SimpleLinkedList
 		self.head = prev
 		self
 	end
-	
+
+	def size
+		current = self.head
+
+		return 0 unless current
+
+		counter = 0
+
+		while current.next
+			counter += 1
+			current = current.next
+		end
+
+		counter += 1
+	end
+
+	def value_at(index)
+		current = self.head
+
+		return nil unless current
+
+		counter = 0
+
+		until counter == index
+			current = current.next
+			counter +=1
+		end
+
+		return current.datum
+	end
+
+	def unshift(element)
+		temp = self.head
+		self.head = element
+		element.next = temp
+
+		self
+	end
+
+	def shift
+		element = self.head
+		return unless element
+		self.head = element.next
+
+		element
+	end
 end
